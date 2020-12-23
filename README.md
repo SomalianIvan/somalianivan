@@ -4,12 +4,6 @@
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=somalianivan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patevs&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
-</div>
-
-
 <!--
 **SomalianIvan/somalianivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
